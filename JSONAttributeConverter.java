@@ -1,16 +1,3 @@
-package com.iwellmass.smartqa;
-
-import com.alibaba.fastjson.JSONObject;
-import com.google.common.base.Strings;
-import com.iwellmass.common.exception.AppException;
-
-import javax.persistence.AttributeConverter;
-import java.lang.reflect.ParameterizedType;
-import java.lang.reflect.Type;
-import java.util.Objects;
-import java.util.Optional;
-import java.util.stream.Stream;
-
 /**
  * @ClasssName JSONAttributeConverter
  * @Author Vince
